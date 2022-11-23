@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900">
       <div className="container flex flex-wrap items-center justify-between mx-auto">
-        <a href="https://flowbite.com/" className="flex items-center">
+        <a href="https://637e53a9c5e11b1c0466a553--shimmering-salmiakki-cff833.netlify.app" className="flex items-center">
           <img
             src="https://www.proficio.com/wp-content/uploads/2020/03/Wazuh-Logo.png"
             className="h-6 mr-3 sm:h-9"
